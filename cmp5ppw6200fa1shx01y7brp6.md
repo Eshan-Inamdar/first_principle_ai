@@ -7,6 +7,7 @@ the harness that holds it all together."
 datePublished: 2026-05-14T16:38:17.886Z
 cuid: cmp5ppw6200fa1shx01y7brp6
 slug: agentic-ai-deep-dive-anatomy-of-an-agent
+cover: https://cdn.hashnode.com/uploads/covers/6a04980da0c15402774955f3/8613d65d-54a1-4408-a18a-cbd57e73e55b.jpg
 tags: ai, artificial-intelligence, data-science, ai-tools, ai-agents
 
 ---
