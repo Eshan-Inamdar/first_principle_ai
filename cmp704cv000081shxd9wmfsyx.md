@@ -95,9 +95,7 @@ In an agentic context, chain-of-thought is always on. Every thought step in the 
 
 The **scratchpad** is the space in the context window where this reasoning happens. It's not shown to the end user. It's not the final output. It's the working memory the model uses to reason through complexity before committing to an action.
 
-Think of it as the difference between a student who reads a maths problem and immediately writes an answer versus one who works through it on rough paper first. The rough paper student makes fewer errors — not because they're smarter, but because the process forces them to catch mistakes before they're committed.
-
-\[CHAIN OF THOUGHT DIAGRAM\]
+Think of it as the difference between a student who reads a math problem and immediately writes an answer versus one who works through it on rough paper first. The rough paper student makes fewer errors — not because they're smarter, but because the process forces them to catch mistakes before they're committed.
 
 * * *
 
