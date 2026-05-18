@@ -7,6 +7,7 @@ agent tool ecosystem"
 datePublished: 2026-05-18T15:49:20.481Z
 cuid: cmpbdqcbh001y2gjze5pzdvqm
 slug: agentic-ai-deep-dive-tools-how-agents-act-on-the-world
+cover: https://cdn.hashnode.com/uploads/covers/6a04980da0c15402774955f3/b8dd1c94-ce12-49f5-94ff-b522e32bec36.png
 tags: ai, artificial-intelligence, data-science, machine-learning, machinelearning, ai-tools, llm, aitools, ai-agents, artificialintelligence, AI
 
 ---
