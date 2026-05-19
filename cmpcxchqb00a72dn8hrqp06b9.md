@@ -16,7 +16,7 @@ tags: ai, artificial-intelligence, skills, llm, agents, rag, claude-ai, agentic-
 
 ## Where We Left Off
 
-In [Part 4](https://eshaninamdar.hashnode.dev/agentic-ai-deep-dive-tools-how-agents-act-on-the-world) we gave agents hands. Tools are how an agent reaches outside itself — into APIs, databases, browsers, file systems. The LLM describes an action, the harness executes it, the result comes back as an observation. MCP standardises the whole interface so integrations are portable across frameworks.
+In [Part 4](https://eshaninamdar.hashnode.dev/agentic-ai-deep-dive-tools-how-agents-act-on-the-world) we gave agents hands. Tools are how an agent reaches outside itself — into APIs, databases, browsers, file systems. The LLM describes an action, the harness executes it, the result comes back as an observation. MCP standardizes the whole interface so integrations are portable across frameworks.
 
 Every tool call produces a result. Every result is information. After enough steps — enough sessions, enough task runs — that information has to live somewhere.
 
