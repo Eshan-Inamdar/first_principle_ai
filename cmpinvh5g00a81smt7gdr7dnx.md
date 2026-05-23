@@ -19,7 +19,7 @@ tags: ai, data-science, trust, llm, ai-agents, ai-engineering, ai-security, agen
 
 ## The Story So Far — Full Series Recap
 
-Six parts in. Here is what we've built up.a
+Six parts in. Here is what we've built up.
 
 **Part 1** — LLMs have four fundamental limitations: knowledge cutoff, no private data, statelessness, no actions. RAG fixed the knowledge problem. The agentic loop — think, act, observe, repeat — was the insight that changed everything.
 
