@@ -1,7 +1,5 @@
 ---
-title: "Agentic AI Deep Dive — Part 7
-
-Security & Trust"
+title: "Agentic AI Deep Dive — Security & Trust"
 seoTitle: " AI Agent Security — Prompt Injection and Trust"
 seoDescription: " Learn
 how prompt injection works, why indirect injection
@@ -9,7 +7,7 @@ is harder to catch, and how trust boundaries and
 least privilege protect you."
 datePublished: 2026-05-23T18:07:39.415Z
 cuid: cmpinvh5g00a81smt7gdr7dnx
-slug: agentic-ai-deep-dive-part-7-security-trust
+slug: agentic-ai-deep-dive-security-trust
 cover: https://cdn.hashnode.com/uploads/covers/6a04980da0c15402774955f3/71718c9c-4328-4d4f-bf11-2e234a6032e6.jpg
 tags: ai, data-science, trust, llm, ai-agents, ai-engineering, ai-security, agentic-ai
 
